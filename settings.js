@@ -9,9 +9,9 @@ global.ytname = "YT: ElitePro"
 global.socialm = "GitHub: elite-md"
 global.location = "Nigeria, Port Harcourt"
 
-global.ownernumber = '2348109263390'  //creator number
-global.ownername = 'Elite-Pro-V2' //owner name
-global.botname = 'ELITE-PRO-V2' //name of the bot
+global.ownernumber = '2349167476447'  //creator number
+global.ownername = 'Kstar' //owner name
+global.botname = 'kstar-Bot💯' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
